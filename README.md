@@ -46,9 +46,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samu3lb0az&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samu3lb0az&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3lb0az&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3lb0az&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ###
