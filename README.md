@@ -1,20 +1,25 @@
-<h1 align="left">👋 Olá, eu sou Samuel Boaz – Desenvolvedor Full-Stack!</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="left">🛠️ Sobre mim</h2>
+<p align="left">My name is Samuel Boaz and I'm a Full-Stack Developer, from Brazil.</p>
+
+###
+
+<h2 align="left">About me</h2>
 
 ###
 
 <p align="left">
-📚 Sempre em busca de conhecimento, atualmente estudando Cibersegurança e aprimorando minhas habilidades em Desenvolvimento Web e Mobile. <br>
-🎯 Meu objetivo é me tornar um especialista em segurança da informação e dominar o desenvolvimento backend. <br>
-💡 Apaixonado por resolver problemas e criar soluções eficientes. 
+✨ Coding since I discovered how websites work <br>
+📚 Currently learning Cybersecurity and improving my Python skills <br>
+🎯 Goals: Become a security specialist and master backend development <br>
+🎲 Fun fact: I enjoy breaking things just to fix them again 🤓
 </p>
 
 ###
 
-<h2 align="left">🚀 Tecnologias que utilizo</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -31,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
@@ -40,35 +45,37 @@
 
 ###
 
-<h2 align="left">📊 Estatísticas do GitHub</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samu3lb0az&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samu3lb0az&show_icons=true&theme=dracula" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3lb0az&layout=compact&theme=dark" alt="Top Languages" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Samu3lb0az&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3lb0az&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ###
 
-<h2 align="left">🌐 Entre em contato comigo</h2>
+<h2 align="left">🏆 Achievements</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samu3lb0az&theme=onestar&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+###
+
+<h2 align="left">🌐 Connect with me</h2>
 
 ###
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samuel-boaz-gon%C3%A7alves/" target="_blank">
+  <a href="https://www.linkedin.com/in/Samu3lb0az" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Samu3lb0az" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Samu3lb0az/Samu3lb0az/output/snake.svg" alt="Snake animation" />
