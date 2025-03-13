@@ -7,10 +7,8 @@
 ###
 
 <p align="left">
-✨ Programando desde que descobri como os sites funcionam <br>
-📚 Atualmente aprendendo Cibersegurança e aprimorando minhas habilidades em Python <br>
+📚 Atualmente aprendendo Cibersegurança e aprimorando minhas habilidades Desenvolvimento Web e Mobile <br>
 🎯 Objetivo: Me tornar um especialista em segurança e dominar o desenvolvimento backend <br>
-🎲 Curiosidade: Gosto de quebrar coisas só para consertá-las novamente 🤓
 </p>
 
 ###
