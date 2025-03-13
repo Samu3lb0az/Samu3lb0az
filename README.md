@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Samuel Boaz 
 
-<!--
-**Samu3lb0az/Samu3lb0az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full-Stack | Técnico em Desenvolvimento de Sistemas  
+🚀 Apaixonado por tecnologia e cibersegurança  
+📫 Como me encontrar: Samuel Gonçalves ([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/samuel-boaz-gon%C3%A7alves/)
+### 🚀 Tecnologias que trabalho:
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
+### 📊 Estatísticas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
+
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onestar&no-frame=true&margin-w=15)
+
