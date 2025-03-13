@@ -17,5 +17,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3lb0az&layout=compact&theme=dracula)
 
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Samu3lb0az&theme=onestar&no-frame=true&margin-w=15)
-
