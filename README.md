@@ -1,19 +1,20 @@
-<h1 align="left">👋 Hey, meu nome é Samuel Boaz e sou um Desenvolvedor Full-Stack.</h1>
+<h1 align="left">👋 Olá, eu sou Samuel Boaz – Desenvolvedor Full-Stack!</h1>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">🛠️ Sobre mim</h2>
 
 ###
 
 <p align="left">
-📚 Atualmente aprendendo Cibersegurança e aprimorando minhas habilidades Desenvolvimento Web e Mobile <br>
-🎯 Objetivo: Me tornar um especialista em segurança e dominar o desenvolvimento backend <br>
+📚 Sempre em busca de conhecimento, atualmente estudando Cibersegurança e aprimorando minhas habilidades em Desenvolvimento Web e Mobile. <br>
+🎯 Meu objetivo é me tornar um especialista em segurança da informação e dominar o desenvolvimento backend. <br>
+💡 Apaixonado por resolver problemas e criar soluções eficientes. 
 </p>
 
 ###
 
-<h2 align="left">Linguagens e Tecnologias</h2>
+<h2 align="left">🚀 Tecnologias que utilizo</h2>
 
 ###
 
@@ -32,6 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
@@ -47,6 +50,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Samu3lb0az&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3lb0az&layout=compact&theme=dark" alt="Top Languages" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Samu3lb0az&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 ###
