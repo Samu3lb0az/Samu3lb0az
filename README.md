@@ -12,10 +12,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Estatísticas:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samu3lb0az&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3lb0az&layout=compact&theme=dracula)
 
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onestar&no-frame=true&margin-w=15)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Samu3lb0az&theme=onestar&no-frame=true&margin-w=15)
 
