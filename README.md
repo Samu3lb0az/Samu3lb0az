@@ -1,21 +1,21 @@
-<h1 align="left">Hey, my name is Samuel Boaz and I'm a Full-Stack Developer.</h1>
+<h1 align="left">👋 Hey, meu nome é Samuel Boaz e sou um Desenvolvedor Full-Stack.</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
 <p align="left">
-✨ Coding since I discovered how websites work <br>
-📚 Currently learning Cybersecurity and improving my Python skills <br>
-🎯 Goals: Become a security specialist and master backend development <br>
-🎲 Fun fact: I enjoy breaking things just to fix them again 🤓
+✨ Programando desde que descobri como os sites funcionam <br>
+📚 Atualmente aprendendo Cibersegurança e aprimorando minhas habilidades em Python <br>
+🎯 Objetivo: Me tornar um especialista em segurança e dominar o desenvolvimento backend <br>
+🎲 Curiosidade: Gosto de quebrar coisas só para consertá-las novamente 🤓
 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Linguagens e Tecnologias</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">📊 Estatísticas do GitHub</h2>
 
 ###
 
@@ -53,22 +53,12 @@
 
 ###
 
-<h2 align="left">🏆 Achievements</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samu3lb0az&theme=onestar&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-###
-
-<h2 align="left">🌐 Connect with me</h2>
+<h2 align="left">🌐 Entre em contato comigo</h2>
 
 ###
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Samu3lb0az" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-boaz-gon%C3%A7alves/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Samu3lb0az" target="_blank">
