@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hey, meu nome é Samuel Boaz e sou um Desenvolvedor Full-Stack.</h1>
+<h1 align="left">👋 Oi, meu nome é Samuel Boaz e sou um Desenvolvedor Full-Stack.</h1>
 
 ###
 
@@ -8,9 +8,8 @@
 
 <p align="left">
 ✨ Programando desde que descobri como os sites funcionam <br>
-📚 Atualmente aprendendo Cibersegurança e aprimorando minhas habilidades em Python <br>
+📚 Atualmente aprendendo Cibersegurança e aprimorando minhas habilidades em Desenvolvimento Web <br>
 🎯 Objetivo: Me tornar um especialista em segurança e dominar o desenvolvimento backend <br>
-🎲 Curiosidade: Gosto de quebrar coisas só para consertá-las novamente 🤓
 </p>
 
 ###
