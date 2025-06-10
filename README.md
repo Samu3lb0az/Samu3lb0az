@@ -1,4 +1,4 @@
-<h1 align="left">👋 Oi, meu nome é Samuel Boaz e sou um Desenvolvedor Full-Stack.</h1>
+<h1 align="left">Meu nome é Samuel Boaz e sou um Desenvolvedor Full-Stack.</h1>
 
 ###
 
@@ -36,6 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img width="12" />
+  <!-- Ícones adicionais de segurança e sistema -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali_Linux_2.0_wordmark.svg" height="40" alt="Kali Linux logo" />
 </div>
 
 ###
