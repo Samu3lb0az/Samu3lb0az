@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
-  <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/kali-linux-dragon-logo.png" height="40" alt="Kali Linux logo" />
+  <img src="https://github.com/user-attachments/assets/ede45234-a6e6-4f90-b4f9-e41078509dbf" height="40" alt="Kali Linux logo" />
 </div>
 
 ###
