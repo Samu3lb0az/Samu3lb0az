@@ -37,8 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" height="40" alt="Supabase logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/ede45234-a6e6-4f90-b4f9-e41078509dbf" height="40" alt="Kali Linux logo" />
