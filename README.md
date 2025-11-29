@@ -26,7 +26,7 @@
 
 <div align="center">
   
-  > <samp>"O único sistema verdadeiramente seguro é aquele que está desligado... e enterrado em concreto."</samp>
+  > <samp>"Dê uma arma a um homem e ele pode roubar um banco. Dê um banco a um homem e ele pode roubar o mundo." - Tyrell Wellick - Mr. Robot</samp>
   
   <br/>
 
@@ -57,7 +57,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">📂 Projetos Críticos & Write-ups</h2>
+<h2 align="center">📂 Projetos & Write-ups</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
