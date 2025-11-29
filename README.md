@@ -22,20 +22,19 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNGQ1ODRkNDQ0MWU4OWI5M2Q3M2IyZjYwMzE4ZjcmcmlkPWdpcGh5LmdpZiZjdD1z/LmWnCqxOgdEaL0zU9W/giphy.gif" width="30"> 
-  Protocolo: Sobre Mim
-</h2>
+<h2 align="center">⚡ Sobre Mim</h2>
 
 <div align="center">
   
-  > <samp>"Eu não preciso de um motivo. Só preciso de uma vulnerabilidade." - Elliot Alderson</samp>
+  > <samp>"Eu não preciso de um motivo. Só preciso de uma vulnerabilidade." - Elliot Alderson - Mr. Robot</samp>
   
   <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=16&pause=2000&color=A6ACCD&center=true&vCenter=true&width=500&height=80&lines=🚀+Missão:+Dominar+Backend+e+SecOps;💻+Background:+Desconstruindo+a+web+desde+sempre;🔐+Foco:+Cibersegurança+Ofensiva+e+Defensiva" alt="Typing SVG" />
-  </a>
+  <p align="center" style="font-family: monospace;">
+    🚀 <b>Missão:</b> Dominar o desenvolvimento Backend e me tornar referência em SecOps (Security Operations).<br>
+    💻 <b>Background:</b> Programando e desconstruindo a web desde que descobri o "Inspecionar Elemento".<br>
+    🔐 <b>Foco Atual:</b> Aprofundando em Cibersegurança Ofensiva e Defensiva (Hacking Ético).<br>
+  </p>
 
 </div>
 
@@ -44,10 +43,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">
-  <img src="https://i.gifer.com/origin/3f/3fcf565ccc553afcfd89858c97304705_w200.gif" width="30">
-  Arsenal Tecnológico
-</h2>
+<h2 align="center">🛠️ Arsenal Tecnológico</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,cs&theme=dark" alt="Full Stack Icons" />
@@ -61,10 +57,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QWR5aA75Iq5dEorQ1Y/giphy.gif" width="35">
-  Projetos & Write-ups (Acesso Restrito)
-</h2>
+<h2 align="center">📂 Projetos & Write-ups (Acesso Restrito)</h2>
 
 <div align="center">
 
@@ -79,11 +72,11 @@
   <br/><br/>
 
   <a href="https://github.com/Samu3lb0az/contador-IIoT">
-    <img src="https://img.shields.io/badge/📡_Contador_IIoT-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010" alt="Contador IoT">
+    <img src="https://img.shields.io/badge/📡_Contador_IIoT-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010" alt="Contador IoT">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RafaelLeal0/senai_technews">
-    <img src="https://img.shields.io/badge/📰_Portal_TechNews-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010" alt="Tech News">
+    <img src="https://img.shields.io/badge/📰_Portal_TechNews-3776AB?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010" alt="Tech News">
   </a>
 
   <br/><br/>
@@ -93,7 +86,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Samu3lb0az/app_mobile1">
-    <img src="https://img.shields.io/badge/📱_App_Mobile-323330?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="App Mobile">
+    <img src="https://img.shields.io/badge/📱_App_Mobile-3776AB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="App Mobile">
   </a>
 
 </div>
@@ -103,10 +96,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNGQ1ODRkNDQ0MWU4OWI5M2Q3M2IyZjYwMzE4ZjcmcmlkPWdpcGh5LmdpZiZjdD1z/LmWnCqxOgdEaL0zU9W/giphy.gif" width="30">
-  Atividade da Rede
-</h2>
+<h2 align="center">🟢 Atividade da Rede</h2>
 
 <div align="center">
   <picture>
