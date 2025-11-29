@@ -26,7 +26,7 @@
 
 <div align="center">
   
-  > <samp>"Dê uma arma a um homem e ele pode roubar um banco. Dê um banco a um homem e ele pode roubar o mundo." - Tyrell Wellick - Mr. Robot</samp>
+  > <samp>"Eu não preciso de um motivo. Só preciso de uma vulnerabilidade." - Elliot Alderson - Mr. Robot</samp>
   
   <br/>
 
