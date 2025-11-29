@@ -8,11 +8,11 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/samuel-boaz-gon%C3%A7alves/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/Samu3lb0az" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub">
     </a>
   </p>
   
@@ -22,19 +22,20 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">⚡ Protocolo: Sobre Mim</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNGQ1ODRkNDQ0MWU4OWI5M2Q3M2IyZjYwMzE4ZjcmcmlkPWdpcGh5LmdpZiZjdD1z/LmWnCqxOgdEaL0zU9W/giphy.gif" width="30"> 
+  Protocolo: Sobre Mim
+</h2>
 
 <div align="center">
   
-  > <samp>"Eu não preciso de um motivo. Só preciso de uma vulnerabilidade." - Elliot Alderson - Mr. Robot</samp>
+  > <samp>"Eu não preciso de um motivo. Só preciso de uma vulnerabilidade." - Elliot Alderson</samp>
   
   <br/>
 
-  <p align="center" style="font-family: monospace;">
-    🚀 <b>Missão:</b> Dominar o desenvolvimento Backend e me tornar referência em SecOps (Security Operations).<br>
-    💻 <b>Background:</b> Programando e desconstruindo a web desde que descobri o "Inspecionar Elemento".<br>
-    🔐 <b>Foco Atual:</b> Aprofundando em Cibersegurança Ofensiva e Defensiva (Hacking Ético).<br>
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=16&pause=2000&color=A6ACCD&center=true&vCenter=true&width=500&height=80&lines=🚀+Missão:+Dominar+Backend+e+SecOps;💻+Background:+Desconstruindo+a+web+desde+sempre;🔐+Foco:+Cibersegurança+Ofensiva+e+Defensiva" alt="Typing SVG" />
+  </a>
 
 </div>
 
@@ -43,7 +44,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">🛠️ Arsenal Tecnológico</h2>
+<h2 align="center">
+  <img src="https://i.gifer.com/origin/3f/3fcf565ccc553afcfd89858c97304705_w200.gif" width="30">
+  Arsenal Tecnológico
+</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,cs&theme=dark" alt="Full Stack Icons" />
@@ -57,32 +61,39 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">📂 Projetos & Write-ups (Acesso Restrito)</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QWR5aA75Iq5dEorQ1Y/giphy.gif" width="35">
+  Projetos & Write-ups (Acesso Restrito)
+</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px; margin-bottom: 20px;">
-  
+<div align="center">
+
   <a href="https://github.com/Samu3lb0az/Write-upVolatility">
     <img src="https://img.shields.io/badge/🔍_Volatility_Forensics-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="Write-up Volatility">
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Samu3lb0az/Write-upVolatiliry_English">
     <img src="https://img.shields.io/badge/🔍_Volatility_English-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="Write-up English">
   </a>
+  
+  <br/><br/>
 
   <a href="https://github.com/Samu3lb0az/contador-IIoT">
     <img src="https://img.shields.io/badge/📡_Contador_IIoT-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010" alt="Contador IoT">
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RafaelLeal0/senai_technews">
     <img src="https://img.shields.io/badge/📰_Portal_TechNews-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010" alt="Tech News">
   </a>
 
+  <br/><br/>
+
   <a href="https://github.com/Samu3lb0az/gestao_aluno">
     <img src="https://img.shields.io/badge/🎓_Gestão_Alunos-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="Gestão Aluno">
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Samu3lb0az/app_mobile1">
-    <img src="https://img.shields.io/badge/📱_App_Mobile-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010" alt="App Mobile">
+    <img src="https://img.shields.io/badge/📱_App_Mobile-323330?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="App Mobile">
   </a>
 
 </div>
@@ -92,7 +103,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">🟢 Atividade da Rede</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNGQ1ODRkNDQ0MWU4OWI5M2Q3M2IyZjYwMzE4ZjcmcmlkPWdpcGh5LmdpZiZjdD1z/LmWnCqxOgdEaL0zU9W/giphy.gif" width="30">
+  Atividade da Rede
+</h2>
 
 <div align="center">
   <picture>
