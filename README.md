@@ -57,29 +57,37 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">📂 Projetos & Write-ups</h2>
+<h2 align="center">📂 Projetos & Write-ups (Acesso Restrito)</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
   
+  <!-- Linha 1: Foco em Segurança/Python -->
   <a href="https://github.com/Samu3lb0az/Write-upVolatility">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samu3lb0az&repo=Write-upVolatility&theme=tokyonight&hide_border=false" alt="Write-upVolatility" height="150" />
+    <img src="https://img.shields.io/badge/Volatility_Forensics-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="Write-up Volatility">
   </a>
+  &nbsp;
   <a href="https://github.com/Samu3lb0az/Write-upVolatiliry_English">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samu3lb0az&repo=Write-upVolatiliry_English&theme=tokyonight&hide_border=false" alt="Write-upVolatiliry_English" height="150" />
+    <img src="https://img.shields.io/badge/Volatility_English-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="Write-up English">
   </a>
-  
-  <a href="https://github.com/Samu3lb0az/contador-IIoT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samu3lb0az&repo=contador-IIoT&theme=tokyonight&hide_border=false" alt="contador-IIoT" height="150" />
-  </a>
-  <a href="https://github.com/RafaelLeal0/senai_technews">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelLeal0&repo=senai_technews&theme=tokyonight&hide_border=false" alt="senai_technews" height="150" />
-  </a>
+  <br/><br/>
 
-  <a href="https://github.com/Samu3lb0az/gestao_aluno">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samu3lb0az&repo=gestao_aluno&theme=tokyonight&hide_border=false" alt="gestao_aluno" height="150" />
+  <!-- Linha 2: IoT e Web -->
+  <a href="https://github.com/Samu3lb0az/contador-IIoT">
+    <img src="https://img.shields.io/badge/Contador_IIoT-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010" alt="Contador IoT">
   </a>
+  &nbsp;
+  <a href="https://github.com/RafaelLeal0/senai_technews">
+    <img src="https://img.shields.io/badge/Portal_TechNews-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010" alt="Tech News">
+  </a>
+  <br/><br/>
+
+  <!-- Linha 3: Gestão e Mobile -->
+  <a href="https://github.com/Samu3lb0az/gestao_aluno">
+    <img src="https://img.shields.io/badge/Gestão_Alunos-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="Gestão Aluno">
+  </a>
+  &nbsp;
   <a href="https://github.com/Samu3lb0az/app_mobile1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samu3lb0az&repo=app_mobile1&theme=tokyonight&hide_border=false" alt="app_mobile1" height="150" />
+    <img src="https://img.shields.io/badge/App_Mobile-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010" alt="App Mobile">
   </a>
 
 </div>
@@ -89,7 +97,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">🟢 Atividade da Rede (Contribuições)</h2>
+<h2 align="center">🟢 Atividade da Rede</h2>
 
 <div align="center">
   <picture>
